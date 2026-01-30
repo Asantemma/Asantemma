@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Emmanuel Asante, a passionate software engineering, data analysis and graphic designing person.<br>I hold a bachelors degree in Business Administration and software engineering certification from ALX Africa. <br>I've developed a strong background in JavaScript, React and Python.<br>I'm looking to collaborate on exciting projects, learn from others and share my own knowledge and experiences.<br>Feel free to explore my repositories and let's connect if you're interested in working together or just want to chat about code.   
+Hi there, I'm Emmanuel Asante, a passionate cybersecurity, data analysis and graphic designing person.<br>I hold a bachelors degree in Business Administration and cybersecurity certification from ALX Africa. <br>I've developed a strong background in Recon_ng, nmap, metasploit and other security monitoring and testing tools.<br>I'm looking to collaborate on exciting projects while securing systems together, learn from others and share my own knowledge and experiences.<br>Feel free to explore my repositories and let's connect if you're interested in working together or just want to chat about the world of cybersecurity.   
 
 
 ## 🌐 Socials:
