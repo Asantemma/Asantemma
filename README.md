@@ -33,18 +33,19 @@ As an aspiring SOC Analyst, I believe the best way to understand an attack is to
 * **Operating Systems & Scripting:** Linux (Bash), Windows Administration, PowerShell
 * **Networking:** TCP/IP, DNS, DHCP, OSPF, VLANs, Subnetting
 
-
-
 ## 📊 Lab Architecture
 
-## 🌐 Connect with me on:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Prof_Asante#0844) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-asante-34ab78160) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=blue)](https://medium.com/asantemma7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=black)](https://x.com/asantemma7) 
+## 📈 Continuous Growth & Certifications
+* **Foundational Knowledge:** Networking, OS Internals, and System Administration
+* **Current Focus:** Threat hunting techniques, KQL/SPL query optimization, and automated incident response playbooks.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asantemma&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asantemma&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asantemma&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+⭐️ *If you find any of these labs or write-ups helpful, feel free to star the repository!*
 
+## 🌐 Let's Connect!
+I am always open to connecting with fellow security professionals, mentors, and recruiters. 
+
+* **Email:** asantemma7@gmail.com
+* [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Prof_Asante#0844) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-asante-34ab78160) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=blue)](https://medium.com/asantemma7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=black)](https://x.com/asantemma7) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
