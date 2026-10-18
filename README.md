@@ -13,13 +13,13 @@ As an aspiring SOC Analyst, I believe the best way to understand an attack is to
 
 ---
 
-## 📂 Lab Directory & Projects
+## 📂 Projects
 
 | Project / Lab Name | Focus Areas & Tools Used | Key Takeaways / Documentation |
 | :--- | :--- | :--- |
-| **[Lab 01: SIEM & Log Analysis](#)** | Splunk, Windows Event Logs, Sysmon | Ingestion of endpoint telemetry, building custom dashboards, and detecting brute-force attacks. |
-| **[Lab 02: Incident Response Simulation](#)** | Wireshark, CyberDefenders, Volatility | Analyzing PCAP files, identifying malware callback traffic, and performing basic memory forensics. |
-| **[Lab 03: Network Security & Monitoring](#)** | Wireshark, Snort, Cisco Packet Tracer | Configuring intrusion detection rules, inspecting packet payloads, and analyzing VLAN segmentation. |
+| |  | |
+| |  |  |
+| |  |  |
 
 *(Click on any project folder above to view the full technical write-up, architecture diagrams, and configuration steps!)*
 
@@ -27,11 +27,8 @@ As an aspiring SOC Analyst, I believe the best way to understand an attack is to
 
 ## 🛠️ Technical Toolkit & Skills
 
-* **Security Information & Event Management (SIEM):** Splunk, Microsoft Sentinel
-* **Endpoint & Network Security:** Sysmon, Wireshark, Snort, Nmap
-* **Threat Frameworks & Methodologies:** MITRE ATT&CK, Cyber Kill Chain, NIST CSF
 * **Operating Systems & Scripting:** Linux (Bash), Windows Administration, PowerShell
-* **Networking:** TCP/IP, DNS, DHCP, OSPF, VLANs, Subnetting
+* **Networking:** TCP/IP, DNS, DHCP, Subnetting
 
 ## 📊 Lab Architecture
 
