@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emmanuel!</h1>
 
-# 🛡️ SOC Analyst & Security Engineering Portfolio
+# 🛡️ SOC Analyst
 
 > *"Defending networks, hunting threats, and breaking down attacks one lab at a time."*
 
