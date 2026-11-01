@@ -27,7 +27,7 @@ As an aspiring SOC Analyst, I believe the best way to understand an attack is to
 
 ## 🛠️ Technical Toolkit & Skills
 
-* **Operating Systems & Scripting:** Linux (Bash), Windows Administration, PowerShell
+* **Operating Systems:** Linux (Bash), Windows Administration, PowerShell
 * **Networking:** TCP/IP, DNS, DHCP, Subnetting
 
 ## 📊 Lab Architecture
